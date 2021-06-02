@@ -2,7 +2,7 @@
 </p>
 <h1 align="center"> Stock Trends and Price Prediction </h1>
 <p align = "center">
-  The prediction process of stock values is always a challenging problem because of its unpredictable nature. A correct prediction of stocks can lead to huge profits for the seller and the broker.The dated market hypothesis believed that it was impossible to predict stock values and that stocks behave randomly, but recent technical analyses show that the most stocks values are reflected in previous records, therefore the movement trends are vital to predict values effectively.
+  The prediction process of stock values is always a challenging problem because of its unpredictable nature. A correct prediction of stocks can lead to huge profits for the seller and the broker.The dated market hypothesis believed that it was impossible to predict stock values and that stocks behave randomly, but recent technical analyses show that the most stocks values are reflected in previous records, therefore the movement trends are vital to predict values effectively.<br>
   In Stock Market Prediction, the aim is to predict the future value of the financial stocks of a company. The recent trend in stock market prediction technologies is the use of machine learning which makes predictions based on the values of current stock market indices by training on their previous values. Machine learning itself employs different models to make prediction easier and authentic. The paper focuses on the use of ARIMA and XGBoost based Machine learning to predict stock values. Factors considered are open, close, low, high and volume. 
 
 # Table of contents
@@ -69,7 +69,7 @@ Data is presented in txt format that we will convert it into a csv file. It incl
 ### ARIMA Model Predictions
 AMAZON.COM INC Stock Prediction  |  ProShares UltraPro Short QQQ Prediction
 :-------------------------:|:-------------------------:
-![]https://github.com/shravanrajesh/Stock-Trends-and-Price-Prediction/blob/main/Output/ARIMA-Results/final(Amazon.com%20Inc).png)  |  ![](https://github.com/shravanrajesh/Stock-Trends-and-Price-Prediction/blob/main/Output/ARIMA-Results/final(ProShares%20UltraPro%20Short%20QQQ).png)
+![](https://github.com/shravanrajesh/Stock-Trends-and-Price-Prediction/blob/main/Output/ARIMA-Results/final(Amazon.com%20Inc).png)  |  ![](https://github.com/shravanrajesh/Stock-Trends-and-Price-Prediction/blob/main/Output/ARIMA-Results/final(ProShares%20UltraPro%20Short%20QQQ).png)
 
 ### XGBOOST Predictions
 Prediction 1  |  Prediction 2
