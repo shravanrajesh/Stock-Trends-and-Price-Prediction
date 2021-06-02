@@ -21,7 +21,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 # Description
 [(Back to top)](#table-of-contents)
-We formally formulate the stock prediction problem as follows: Given n + 1 feature vectors x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>(n+1)</sub> and observed labels y<sub>1</sub>, y<sub>2</sub>, ..., y<sub>n</sub> for the first n days, predict the label y<sub>(n+1)</sub> for day n+1. In our particular formulation, x<sub>i<sub>2R, k are the features on day i, and y<sub>&#8714;</sub> is the actual price, making this a regression problem.
+We formally formulate the stock prediction problem as follows: Given n + 1 feature vectors x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>(n+1)</sub> and observed labels y<sub>1</sub>, y<sub>2</sub>, ..., y<sub>n</sub> for the first n days, predict the label y<sub>(n+1)</sub> for day n+1. In our particular formulation, x<sub>i</sub>&#8714;R, k are the features on day i, and y<sub>i</sub> is the actual price, making this a regression problem.<br>
 For stock price prediction two models have been used in this project.
 * **ARIMA MODEL**
 * **XGBOOST MODEL**
